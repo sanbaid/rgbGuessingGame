@@ -1,0 +1,49 @@
+div .col-md-2{
+    min-height: 100px;
+    margin-left: 10px;
+}
+.hide{
+    visibility: hidden;
+}
+
+.title{
+    height: 200px;
+    background: #4682B4;
+    color: white;
+    text-transform: uppercase;
+    line-height: 1.1;
+}
+
+body{
+    font-family: 'Montserrat, sans serif';
+    background-color: black;
+}
+
+.size1{
+    font-size: 2rem;
+}
+
+.size2{
+    font-size: 3rem;
+}
+
+.bg-d{
+    background-color: black!important;
+}
+
+.border{
+    border-radius: 10px;
+}
+
+.navCol{
+    background-color: white;
+    max-height: 25px;
+}
+
+.rowPad{
+    padding-top: 10px;
+}
+
+.hardPad{
+    padding-left: 7px;
+}
